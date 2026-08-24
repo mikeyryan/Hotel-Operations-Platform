@@ -80,4 +80,56 @@ Managers need to:
 - [ ] View available staff
 - [ ] Assign request to staff member
 - [ ] Reassign request
-- [ ] 
+- [ ] Monitor task status
+
+### Analytics
+- [ ] Total requests
+- [ ] Open requests
+- [ ] Completed requests
+- [ ] Average response time
+- [ ] Average completion time
+- [ ] Requests by department
+- [ ] Requests by category
+
+---
+# 5. ⏳ AI Features
+AI features will be introduced after the core application is working...
+## AI Categorization
+The AI should be able to analyze a request and recommend:
+- Department
+- Category
+- Priority
+Example:
+Input:
+"Room 314's guests need extra water."
+Possible output:
+- Department: Supplies
+- Category: Demanding Supplies
+- Priority: Low
+AI recommendations should be reviewable by managers
+
+---
+## AI Operational Analysis
+The system should eventually identity:
+- Recurring problems
+- Department workload
+- Request trends
+- Unusual increases in requests
+- Response-time patterns
+- Potential operational bottlenecks
+
+---
+## AI Summaries
+The system should eventually provide managers with summaries such as: 
+"Maintenance requests increased this week, with water requests made by guests representing a significant portion of reported requests."
+
+---
+# 6. Employee Activity Metrics
+The system may provide operational metrics such as: 
+- Tasks completed
+- Tasks completed on time
+- Average response time
+- Average completion time
+- Number of requests handled
+- Documentation quality
+These metrics are intended to provide managers with information about operations.
