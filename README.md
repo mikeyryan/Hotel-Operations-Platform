@@ -7,7 +7,8 @@
 ## Project Goal
 The goal of this project is to create a simple, convenient, and efficient system for hotel staff to report service requests, document problem with photos, and communicate those requests to hotel management 
 The platform will eventually incorporate AI to analyze operational data and identity patters, bottlenecks, workload trends, and other useful insights for hotel managers. 
-##👥Users
+
+## 👥Users
 ### 👨‍🔧 Hotel Staff
 Staff members will be able to:
 - Submit service requests
