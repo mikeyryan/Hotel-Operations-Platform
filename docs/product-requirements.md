@@ -52,4 +52,32 @@ Managers need to:
 - [ ] Secure authentication
 - [ ] Staff profile
 ### Service Requests
+- [ ] Create request
+- [ ] Select category
+- [ ] Select room/location
+- [ ] Add description
+- [ ] take photo inside application
+- [ ] Preview photo
+- [ ] Retake photo
+- [ ] Submit request
+### Task management
+- [ ] View assigned tasks
+- [ ] View task details
+- [ ] Change task status
+- [ ] Mark task as completed
 
+---
+## Manager Dashboard
+### Request Management
+- [ ] View all requests
+- [ ] View request details
+- [ ] View attached photographs
+- [ ] Search requests
+- [ ] Filter requests
+- [ ] Sort requests
+
+### Assignment
+- [ ] View available staff
+- [ ] Assign request to staff member
+- [ ] Reassign request
+- [ ] 
