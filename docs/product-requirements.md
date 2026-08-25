@@ -150,26 +150,26 @@ Possible export formats:
 ---
 # 8. MVP Definition
 The MVP will be considered functional when the following workflow works from beginning to end:
-👷‍♂️ Staff:
+### 👷‍♂️ Staff:
 1. Logs in
 2. Creates a service request
 3. Selects a location
 4. Takes a photograph
 5. Adds a description
 6. Submits the request
-💾 System:
+### 💾 System:
 7. Stores the request
 8. Stores the photograph
 9. Records the timestamp
-👨‍💼 Manager:
+### 👨‍💼 Manager:
 10. Views the request
 11. Views the photograph
 12. Assigns the reuest
 13. Monitors the request
-👷‍♂️ Staff:
+### 👷‍♂️ Staff:
 14. Update the request
 15. Marks it completed
-👨‍💼 Manager:
+### 👨‍💼 Manager:
 16. Sees the completed request
 
 ---
