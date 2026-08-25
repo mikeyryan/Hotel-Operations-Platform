@@ -125,11 +125,80 @@ The system should eventually provide managers with summaries such as:
 
 ---
 # 6. Employee Activity Metrics
-The system may provide operational metrics such as: 
+The system may provide operational metrics such as:
 - Tasks completed
 - Tasks completed on time
 - Average response time
-- Average completion time
 - Number of requests handled
 - Documentation quality
+
 These metrics are intended to provide managers with information about operations.
+
+---
+# 7. Reporting
+Managers should eventually be able to generate:
+- Weekly reports
+- Monthly reports
+- Department reports
+- Request summaries
+- Employee activity reports
+- Operational analytics
+Possible export formats:
+- Excel
+- CSV
+- PDF
+---
+# 8. MVP Definition
+The MVP will be considered functional when the following workflow works from beginning to end:
+👷‍♂️ Staff:
+1. Logs in
+2. Creates a service request
+3. Selects a location
+4. Takes a photograph
+5. Adds a description
+6. Submits the request
+💾 System:
+7. Stores the request
+8. Stores the photograph
+9. Records the timestamp
+👨‍💼 Manager:
+10. Views the request
+11. Views the photograph
+12. Assigns the reuest
+13. Monitors the request
+👷‍♂️ Staff:
+14. Update the request
+15. Marks it completed
+👨‍💼 Manager:
+16. Sees the completed request
+
+---
+# 9. Future Features
+Possible future features include:
+- Push notifications
+- Automatic request categorization
+- AI riority recommendations
+- Built-in advanced analytics
+- Excel export
+- Predictive maintenance
+- Multi-hotel support
+- Multi-language support
+- Voice input
+- Integration with existing hotel management system
+These features will not be prioritized until the first MVP test model is completed
+
+---
+# 10. Design Principles
+The application should prioritize:
+### Speed
+Staff should be able to submit the request quickly 
+### User-friendly Interface
+The interface should require minimal training and understanding
+### Transparency
+Managers should be able to understand where data and AI recommendations come from. 
+### Reliability
+Requests should not be lost
+### Security
+Hotel, employee, an guest information must be protected
+### Scalability
+Hopefully, my app would eventually support multiple hotels. 
