@@ -64,13 +64,9 @@ AI analytics, advanced reporting, and automation come after this workflow is rel
 - [User Flows](docs/USER_FLOWS.md)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Roadmap](docs/ROADMAP.md)
-- [Expo Go Setup & Troubleshooting](docs/EXPO_GO_SETUP.md)
 - [Contributing](CONTRIBUTING.md)
 
 
-## Current milestone
-
-Get a minimal Expo application running on a physical phone, document the development setup, and build the first static request-list screen.
 
 ## Project principles
 
