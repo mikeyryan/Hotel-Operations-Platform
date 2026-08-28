@@ -33,6 +33,4 @@ AI 分类、优先级建议、高级报表和自动化功能将在基础流程�
 - [用户流程](USER_FLOWS.md)
 - [技术架构](ARCHITECTURE.md)
 - [开发路线图](ROADMAP.md)
-- [Expo Go 安装与排查](EXPO_GO_SETUP.md)
-- [开发旅程记录库](../vault/README.md)
 
